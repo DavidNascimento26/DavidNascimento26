@@ -1,4 +1,4 @@
-# Olá, sou Carlos David 👋
+# Olá, sou Carlos David
 
 Desenvolvedor Backend com foco em **Python** e **JavaScript**, apaixonado por construir sistemas eficientes e interfaces que fazem sentido para o usuário.
 
