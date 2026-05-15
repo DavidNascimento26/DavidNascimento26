@@ -3,7 +3,7 @@
 Desenvolvedor Backend com foco em **Python** e **JavaScript**, apaixonado por construir sistemas eficientes e interfaces que fazem sentido para o usuário.
 
 Formado em **Análise e Desenvolvimento de Sistemas** | Campina Grande, PB
-Experiência profissional na **AEC** e **Alpargatas** | Aberto a oportunidades CLT
+Experiência profissional na **AEC** e **Alpargatas** | Aberto a oportunidades
 
 ---
 
