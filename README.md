@@ -70,7 +70,7 @@ Experiência profissional na **AEC** e **Alpargatas** | Aberto a oportunidades C
 ](https://linkedin.com/in/davidnascimento26)
 [
 
-![Gmail](https://img.shields.io/badge/-davidnascimento262626@gmail.com-EA4335?style=flat&logo=gmail&logoColor=fff)
+![Gmail](https://img.shields.io/badge/-Gmail-EA4335?style=flat&logo=gmail&logoColor=fff)
 
 ](mailto:davidnascimento262626@gmail.com)
 [
